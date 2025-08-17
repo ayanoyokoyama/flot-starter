@@ -1,6 +1,6 @@
 # Flōt — Premium & Calm Starter
 
-ADHD-friendly, low-decision workouts that fit real workdays.  
+Low-decision workouts that fit real workdays.  
 This starter includes:
 - `flot.css` — design tokens + component styles
 - `index.html` — demo wired to tokens + Google Fonts
