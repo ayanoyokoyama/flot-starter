@@ -1,9 +1,8 @@
 # Flōt — Premium & Calm Starter
 
-Low-decision workouts that fit real workdays.  
-This starter includes:
-- `flot.css` — design tokens + component styles
-- `index.html` — demo wired to tokens + Google Fonts
-- `flot-brand-moodboard.png` — palette, type, UI motifs
+This repo contains:
+- `flot.css` (design tokens + components)
+- `index.html` (demo page wired to the CSS + Google Fonts)
+- `flot-brand-moodboard.png` (palette + typography + UI motifs)
 
 Live demo: https://<your-username>.github.io/flot-starter/
